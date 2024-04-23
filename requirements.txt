@@ -1,0 +1,6 @@
+opencv-python
+streamlit
+plotly
+scipy
+numpy
+tqdm
